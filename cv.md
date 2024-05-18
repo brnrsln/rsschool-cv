@@ -2,9 +2,9 @@
 
 ## Contacts
 
-Phone : + 375 (44) 533 5810
-Email : baranauruslan@gmail.com
-Telegram : @heiiti
+Phone : + 375 (44) 533 5810  
+Email : baranauruslan@gmail.com  
+Telegram : @heiiti  
 Discord : brnrsln
 
 ## About
@@ -36,7 +36,7 @@ Temporarily no work yet
 
 ## Education
 
-2021 - ... Belarusian-Russian University
+2021 - ... Belarusian-Russian University  
 2024 - RS School frontend course, stage 0
 
 ## Language level
