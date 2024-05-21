@@ -33,7 +33,16 @@
         </div>
         <div class="right_main">
             <div class="about"></div>
-            <div class="code_example"></div>
+            <div class="code_example">
+                <p>Code Example: </p>
+                <pre><code>function checkParent (src, dest) {
+                while (src != null) {
+                  if (src.tagName == dest) return src
+                  src = src.parentElement
+                }
+                return null
+              }</code></pre>
+            </div>
             <div class="portfolio"></div>
         </div>
     </main>
