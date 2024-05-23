@@ -1,5 +1,7 @@
 main{
-
+    display: flex;
+    flex-direction: row;
+    padding: 15px 0 30px 30px;
 }
 
 /* ----------------- LEFT MAIN ------------------- */
@@ -27,7 +29,7 @@ main{
 /* ----------------- RIGHT MAIN ------------------- */
 
 .right_main{
-
+    padding-left: 30px;
 }
 
 .about{
@@ -42,6 +44,15 @@ main{
 
 }
 
-.project{
+.projects{
+    display: flex;
+    flex-direction: row;
+}
 
+.project{
+    padding: 15px 0 30px 30px;
+}
+
+.project:first-child{
+    padding-left: 0;
 }
