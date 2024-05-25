@@ -1,0 +1,78 @@
+main{
+    display: flex;
+    flex-direction: row;
+    padding: 15px 15px 30px 30px;
+}
+
+/* ----------------- LEFT MAIN ------------------- */
+.left_main{
+    padding-right: 10px;
+}
+
+.contact{
+}
+
+.education{
+    padding-top: 15px;
+}
+
+.skills{
+    padding-top: 15px;
+}
+
+.language{
+    padding-top: 15px;
+}
+
+
+/* ----------------- RIGHT MAIN ------------------- */
+
+.right_main{
+    padding-left: 30px;
+}
+
+.about{
+
+}
+
+.code_example{
+    padding-top: 15px;
+}
+
+pre{
+    background-color:#25382f;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+.portfolio{
+    padding-top: 15px;
+}
+
+.projects{
+    display: flex;
+    flex-direction: row;
+}
+
+.project{
+    margin: 0px 0 30px 30px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    transition: linear background-color 0.2s;
+}
+
+.project img{
+    border-radius: 10px;
+    height: 100px;
+    width: 100%;
+}
+
+.project:hover{
+    background-color: #588157;
+    color: #A3B18A;
+}
+
+.project:first-child{
+    margin-left: 0;
+}

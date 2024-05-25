@@ -1,0 +1,30 @@
+@import url("header.css");
+@import url("main.css");
+@import url("footer.css");
+
+body{
+    margin: auto;
+    font-family: "REM", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.container{
+    color: #DAD7CD;
+    width: 960px;
+    height: 100%;
+    margin: 30px auto;
+    background-color: #344E41;
+    border-radius: 10px;
+}
+
+a{
+   text-decoration: none;
+   color: #DAD7CD;
+   transition: color 0.2s linear;
+}
+
+a:hover{
+   color: grey;
+}
