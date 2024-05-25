@@ -4,6 +4,10 @@
 
 body{
     margin: auto;
+    font-family: "REM", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
 }
 
 .container{
@@ -11,7 +15,7 @@ body{
     width: 960px;
     height: 100%;
     margin: 30px auto;
-    background-color: #A3B18A;
+    background-color: #344E41;
     border-radius: 10px;
 }
 

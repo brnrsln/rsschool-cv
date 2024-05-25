@@ -1,28 +1,27 @@
 main{
     display: flex;
     flex-direction: row;
-    padding: 15px 0 30px 30px;
+    padding: 15px 15px 30px 30px;
 }
 
 /* ----------------- LEFT MAIN ------------------- */
 .left_main{
-
+    padding-right: 10px;
 }
 
 .contact{
-
 }
 
 .education{
-
+    padding-top: 15px;
 }
 
 .skills{
-
+    padding-top: 15px;
 }
 
 .language{
-
+    padding-top: 15px;
 }
 
 
@@ -37,11 +36,17 @@ main{
 }
 
 .code_example{
+    padding-top: 15px;
+}
 
+pre{
+    background-color:#25382f;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
 }
 
 .portfolio{
-
+    padding-top: 15px;
 }
 
 .projects{
@@ -50,9 +55,24 @@ main{
 }
 
 .project{
-    padding: 15px 0 30px 30px;
+    margin: 0px 0 30px 30px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    transition: linear background-color 0.2s;
+}
+
+.project img{
+    border-radius: 10px;
+    height: 100px;
+    width: 100%;
+}
+
+.project:hover{
+    background-color: #588157;
+    color: #A3B18A;
 }
 
 .project:first-child{
-    padding-left: 0;
+    margin-left: 0;
 }
