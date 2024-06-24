@@ -4,7 +4,7 @@
 
 Phone : + 375 (44) 533 5810  
 Email : baranauruslan@gmail.com  
-Telegram : @heiiti  
+Telegram : [@hrnrsln](https://t.me/brnrsl)  
 Discord : brnrsln
 
 ## About
