@@ -1,3 +1,1 @@
-# rsschool-cv
-
-rsschool-cv-html: https://brnrsln.github.io/rsschool-cv/
+rsschool-cv-html: https://tat5umaki.github.io/rsschool-cv/
